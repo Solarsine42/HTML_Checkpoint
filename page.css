@@ -34,6 +34,9 @@ form{
 table{
     border: black 1px solid;
     border-collapse: collapse;
+    width:70%;
+    margin:auto;
+    font-size:20px;
 }
 thead,th{
     background-color: gray;
@@ -43,6 +46,7 @@ thead,th{
 td{
     border-left: black 1px solid;
     padding: 10px;
+    line-height:25px;
 }
 .gray{
     background-color: lightgray;
