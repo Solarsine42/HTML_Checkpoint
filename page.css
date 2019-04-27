@@ -1,0 +1,49 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left:3%;
+}
+h1{
+    color: #EF8F00;
+}
+ul{
+    list-style: none;
+}
+figure{
+    display: block;
+    width:60%;
+    margin: auto;
+}
+.container{
+    display: flex;
+}
+.pets{
+    border: 2px black solid;
+    width: 9%;
+    margin-left: 5%;
+}
+#view{
+    margin-left: 14%;
+}
+button{
+    margin-top:2%;
+    font-size: 14px;
+}
+form{
+    margin-left: 5%;
+}
+table{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+thead,th{
+    background-color: gray;
+    padding: 10px;
+    border-left: black 1px solid;
+}
+td{
+    border-left: black 1px solid;
+    padding: 10px;
+}
+.gray{
+    background-color: lightgray;
+}
